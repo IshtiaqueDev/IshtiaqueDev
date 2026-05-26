@@ -20,10 +20,9 @@ I am focused on building real-world web applications using Node.js, Express, Mon
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IshtiaqueDev&label=Profile%20Views&color=0e75b6&style=flat)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IshtiaqueDev&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IshtiaqueDev&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IshtiaqueDev&layout=compact)
-
+![TopLanguages](https://githubreadmestats.vercel.app/api/toplangs/username=IshtiaqueDev&layout=compact&hide_border=true)
 ---
 
 ## Tech Stack
