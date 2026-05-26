@@ -46,15 +46,24 @@ I am focused on building real-world web applications using Node.js, Express, Mon
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)
 
 ---
-
 ## Projects
 
 - WanderLust App – Full Stack Listings Platform (Ongoing)
--Smart Cash App
--Student Attendance System
+- Smart Cash App – Personal finance management application
+- Student Attendance System – Web-based attendance tracking system
 - More projects coming soon
-
 ---
+
+## Computer Science Fundamentals
+
+- Data Structures and Algorithms (DSA) in Java
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
+- SQL (Structured Query Language)
+- Operating Systems
+- Computer Networks 
+- Software Engineering Principles
+- Problem Solving and Logical Thinking
 
 ## Connect With Me
 
