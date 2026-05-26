@@ -20,14 +20,12 @@ I am focused on building real-world web applications using Node.js, Express, Mon
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IshtiaqueDev&label=Profile%20Views&color=0e75b6&style=flat)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IshtiaqueDev&show_icons=true&hide_border=true)
-
-![TopLanguages](https://githubreadmestats.vercel.app/api/toplangs/username=IshtiaqueDev&layout=compact&hide_border=true)
 ---
 
 ## Tech Stack
 
 ### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=flat&logo=css3)
@@ -37,6 +35,7 @@ I am focused on building real-world web applications using Node.js, Express, Mon
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=flat)
 
 ### Database
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb)
 
 ### Tools
@@ -59,7 +58,7 @@ I am focused on building real-world web applications using Node.js, Express, Mon
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishtiaque%20Ali-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ishtiaqueali3)
 
-[GitHub](https://github.com/IshtiaqueDev)
+[![GitHub](https://img.shields.io/badge/GitHub-IshtiaqueDev-black?style=for-the-badge&logo=github)](https://github.com/IshtiaqueDev)
 
 ---
 
