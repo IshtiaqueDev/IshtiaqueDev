@@ -1,8 +1,8 @@
-# Ishtiaq Ali
+# Ishtiaque Ali
 
-Full Stack Web Developer | MERN Stack | Java Developer | Dev Ops
+Full Stack Web Developer | MERN STACK | Java Developer  
 
-I am focused on building real-world web applications using Node.js, Express, MongoDB, and modern backend technologies. I enjoy backend development, database systems, and continuously improving my problem-solving skills through DSA and projects.
+I am focused on building real-world web applications using Node.js, Express, MongoDB, and modern frontend tools. I enjoy backend development and continuously improving my skills through practical projects.
 
 ---
 
@@ -11,8 +11,8 @@ I am focused on building real-world web applications using Node.js, Express, Mon
 - BSCS Student at SIBA IET Khairpur Campus
 - Completed 1st Year, Currently in 2nd Year
 - Full Stack Web Development Learner (MERN Stack)
-- Interested in Backend Development, Databases, and System Design
-- Actively building real-world projects for practical experience
+- Focused on backend development and system design fundamentals
+- Actively building real-world projects for experience
 
 ---
 
@@ -30,11 +30,8 @@ I am focused on building real-world web applications using Node.js, Express, Mon
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
-![Java](https://img.shields.io/badge/Java-black?style=flat&logo=java)
-![C++](https://img.shields.io/badge/C%2B%2B-black?style=flat&logo=c%2B%2B)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=flat&logo=css3)
-![SQL](https://img.shields.io/badge/SQL-black?style=flat&logo=mysql)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js)
@@ -43,29 +40,30 @@ I am focused on building real-world web applications using Node.js, Express, Mon
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb)
 
-### CS Fundamentals
-- Data Structures & Algorithms (DSA)
-
 ### Tools
 ![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)
 
 ---
 
 ## Projects
 
 - WanderLust App – Full Stack Listings Platform (Ongoing)
+-Smart Cash App
+-Student Attendance System
 - More projects coming soon
 
 ---
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/ishtiaqueali3
-- GitHub: https://github.com/IshtiaqueDev
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishtiaque%20Ali-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ishtiaqueali3)
+
+[GitHub](https://github.com/IshtiaqueDev)
 
 ---
 
 ## Current Focus
 
-Building full stack applications using MERN stack, strengthening backend development, and improving DSA problem-solving skills.
+Building full stack applications using MERN stack and improving backend development skills through hands-on projects.
