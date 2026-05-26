@@ -25,8 +25,10 @@ I am focused on building real-world web applications using Node.js, Express, Mon
 ## Tech Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-black?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
+![C++](https://img.shields.io/badge/C%2B%2B-black?style=flat&logo=c%2B%2B)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=flat&logo=css3)
 
@@ -35,7 +37,7 @@ I am focused on building real-world web applications using Node.js, Express, Mon
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=flat)
 
 ### Database
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-black?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb)
 
 ### Tools
