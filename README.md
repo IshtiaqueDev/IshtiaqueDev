@@ -11,6 +11,7 @@ I am focused on building real-world web applications using Node.js, Express, Mon
 - BSCS Student at Sukkur IBA University Khairpur Campus
 - Completed 1st Year, Currently in 2nd Year
 - Full Stack Web Development (MERN Stack)
+- Java Developer (Desktop Application Developer)
 - Focused on backend development and system design fundamentals
 - Actively building real-world projects for experience
 
