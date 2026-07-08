@@ -1,5 +1,5 @@
 <!--Banner-->
-![Ishtiaque Ali Banner Image](./banner.png)
+![Ishtiaque Ali Banner Image](./banner-heading.png)
 
 <!--Night Owl image-->
 <div>
