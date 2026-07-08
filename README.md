@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!--Banner-->
 ![Ishtiaque Ali Banner Image](./banner.png)
 
