@@ -47,6 +47,16 @@ I specialize in MERN Stack development, backend engineering, database design, an
 </p>
 
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,mysql,java,cpp,git,github,vscode" />
+</p>
+
+<h2 align="center">⚡ Skills Animation ⚡</h2>
+
+<p align="center">
+  <img src="./Skills_Animation_White.gif" width="70%" />
+</p>
+
 <h3 align="left">Current Learning</h3>
 
 <ul align="left">
