@@ -103,7 +103,6 @@ I specialize in MERN Stack development, backend engineering, database design, an
 </p>
 
 </td>
-
 </tr>
 </table>
 
