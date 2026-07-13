@@ -21,7 +21,7 @@ I specialize in MERN Stack development, backend engineering, database design, an
 
 - 🎓 BS Computer Science Student at Sukkur IBA University Khairpur Campus
 - 💻 Full Stack Web Developer (MERN Stack)
-- ⚙️ Backend Development Enthusiast
+- ⚙️ Backend Developmer
 - ☕ Java Developer (Desktop Applications & OOP)
 - 🤖 Exploring Artificial Intelligence and AI-powered applications
 - 🚀 Building real-world projects to improve engineering skills
