@@ -18,7 +18,6 @@
 I am a Computer Science student and Full Stack Developer passionate about building real-world web applications. 
 I specialize in MERN Stack development, backend engineering, database design, and continuously improving my problem-solving skills through practical projects.
 </p>
-
 - 🎓 BS Computer Science Student at Sukkur IBA University Khairpur Campus
 - 💻 Full Stack Web Developer (MERN Stack)
 - ⚙️ Backend Developmer
