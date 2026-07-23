@@ -27,7 +27,6 @@ I specialize in MERN Stack development, backend engineering, database design, an
 
 <!--End Intro-->
 
-
 <!--Profile Count Badge-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=IshtiaqueDev&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
