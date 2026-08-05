@@ -64,7 +64,7 @@ I'm a Full-Stack MERN Developer who has been exploring the world of web developm
 </p>
 
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=IshtiaqueDev&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
