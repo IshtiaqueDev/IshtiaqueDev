@@ -1,5 +1,7 @@
 
-```text
+<pre align="center">
+
+
 _____   _____   _   _  _____  _____  _____   ___    _   _  _____ 
  |_   _| /  ___| | | | ||_   _||_   _|/  _  | / _ \  | | | ||  ___|
    | |   \ `--.  | |_| |  | |    | |  | | | || /_\ \ | | | || |__  
@@ -7,12 +9,12 @@ _____   _____   _   _  _____  _____  _____   ___    _   _  _____
   _| |_  /\__/ / | | | |  | |   _| |_ \ \/' /| | | | | |_| || |___ 
   \___/  \____/  \_| |_/  \_/   \___/  \_/\_|\_| |_/  \___/ \____/
 
-  ```
 
+</pre>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1200&color=00F2FE&center=true&vCenter=true&width=700&lines=Learning+%26+Improving;Exploring+New+Technologies;Building+Real+World+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1200&color=000000&center=true&vCenter=true&width=700&lines=Learning+%26+Improving;Exploring+New+Technologies;Building+Real+World+Projects" />
 
 </div>
 
@@ -69,13 +71,6 @@ I'm a Full-Stack MERN Developer who has been exploring the world of web developm
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1200&color=00F2FE&center=true&vCenter=true&width=700&lines=Learning+%26+Improving;Exploring+New+Technologies;Building+Real+World+Projects;Implementing+Ideas+Through+Code;" />
-
-</div>
-
-
-<div align="center">
-
-### Check Out My Pinned Projects
+### Check Out My Pinned Projects 📌
 
 </div>
