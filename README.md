@@ -1,69 +1,81 @@
-# Ishtiaque Ali
 
-Full Stack Web Developer | MERN STACK | Java Developer  
+```text
+_____   _____   _   _  _____  _____  _____   ___    _   _  _____ 
+ |_   _| /  ___| | | | ||_   _||_   _|/  _  | / _ \  | | | ||  ___|
+   | |   \ `--.  | |_| |  | |    | |  | | | || /_\ \ | | | || |__  
+   | |    `--. \ |  _  |  | |    | |  | | | ||  _  | | | | ||  __| 
+  _| |_  /\__/ / | | | |  | |   _| |_ \ \/' /| | | | | |_| || |___ 
+  \___/  \____/  \_| |_/  \_/   \___/  \_/\_|\_| |_/  \___/ \____/
 
-I am focused on building real-world web applications using Node.js, Express, MongoDB, and modern frontend tools. I enjoy backend development and continuously improving my skills through practical projects.
+  ```
 
----
 
-## About Me
+<div align="center">
 
-- BSCS Student at SIBA IET Khairpur Campus
-- Completed 1st Year, Currently in 2nd Year
-- Full Stack Web Development Learner (MERN Stack)
-- Focused on backend development and system design fundamentals
-- Actively building real-world projects for experience
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1200&color=00F2FE&center=true&vCenter=true&width=700&lines=Learning+%26+Improving;Exploring+New+Technologies;Building+Real+World+Projects" />
 
----
+</div>
 
-## GitHub Stats
+I'm a Full-Stack MERN Developer who has been exploring the world of web development for the past year. I enjoy working with JavaScript and React to build modern, high-quality web applications. Currently, I'm focused on building impactful projects, improving my coding practices, writing efficient and scalable code, and strengthening my problem-solving skills through DSA.
 
-![Profile Views](https://komarev.com/ghpvc/?username=IshtiaqueDev&label=Profile%20Views&color=0e75b6&style=flat)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IshtiaqueDev&show_icons=true&theme=default)
+## 💻 Tech Stack
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IshtiaqueDev&layout=compact)
+### Frontend
 
----
-
-## Tech Stack
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=flat&logo=css3)
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=flat)
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb)
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+</p>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)
+### Tools & Others
 
----
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+</p>
 
-## Projects
 
-- WanderLust App – Full Stack Listings Platform (Ongoing)
--Smart Cash App
--Student Attendance System
-- More projects coming soon
 
----
+## 🌐 Connect With Me
 
-## Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/ishtiaqueali3/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishtiaque%20Ali-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ishtiaqueali3)
+  <a href="https://github.com/IshtiaqueDev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-[GitHub](https://github.com/IshtiaqueDev)
 
----
 
-## Current Focus
+<div align="center">
 
-Building full stack applications using MERN stack and improving backend development skills through hands-on projects.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1200&color=00F2FE&center=true&vCenter=true&width=700&lines=Learning+%26+Improving;Exploring+New+Technologies;Building+Real+World+Projects;Implementing+Ideas+Through+Code;" />
+
+</div>
+
+
+<div align="center">
+
+### Check Out My Pinned Projects
+
+</div>
