@@ -68,7 +68,7 @@ I'm a Full-Stack MERN Developer who has been exploring the world of web developm
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=IshtiaqueDev&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=FarzeenFatima55&theme=radical&hide_border=false" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=IshtiaqueDev&theme=radical&hide_border=false" height="165"/>
 </p>
 
 <p align="center">
