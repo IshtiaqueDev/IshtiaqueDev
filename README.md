@@ -21,7 +21,7 @@ _____   _____   _   _  _____  _____  _____   ___    _   _  _____
 I'm a Full-Stack MERN Developer who has been exploring the world of web development for the past year. I enjoy working with JavaScript and React to build modern, high-quality web applications. Currently, I'm focused on building impactful projects, improving my coding practices, writing efficient and scalable code, and strengthening my problem-solving skills through DSA.
 
 
-## 💻 Tech Stack
+## 💻 Tech Stack  
 
 ### Full Stack Development
 
